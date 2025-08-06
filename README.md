@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Joy Christiana Nelapati 👋</h1>
-<p align="center">Final-year CSE student | AI/Web Developer | Tech Explorer</p>
+<p align="center">Final-year CSE student | AI & Web Developer | Tech Explorer</p>
 
 ---
 
@@ -15,12 +15,12 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,flask,nodejs,mysql,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,flask,nodejs,mysql,mongodb,firebase,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🔍 Highlight Projects
+### 💼 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -33,15 +33,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njoyc&show_icons=true&theme=graywhite&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=njoyc&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=njoyc&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=njoyc&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 📜 Certifications
 
-- Google ML Crash Course (Google AI)  
+- Google ML Crash Course  
 - AWS Cloud Practitioner Essentials  
 - Infosys Springboard: AI Primer  
 - Google Cloud: GenAI & MLOps Skill Badges  
