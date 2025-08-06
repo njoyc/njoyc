@@ -14,20 +14,9 @@ Final-year CSE undergrad | AI + Web Developer | Passionate Problem Solver
 
 ### 🛠️ Technical Skills
 
-**Languages**  
-Python · Java · C
-
-**Web Stack**  
-JavaScript · HTML · CSS · React.js · Flask · Node.js
-
-**Databases & Tools**  
-MySQL · MongoDB · Firebase · SQLite · Google Colab · VS Code
-
-**Core CS**  
-OOP · DBMS · Operating Systems · Computer Networks · Data Structures
-
-**ML & AI**  
-Scikit-learn · Pandas · NumPy · TensorFlow (basics) · Google ML Tools · GenAI APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,flask,nodejs,mysql,mongodb,firebase,git,github,vscode" />
+</p>
 
 ---
 
@@ -43,12 +32,18 @@ Scikit-learn · Pandas · NumPy · TensorFlow (basics) · Google ML Tools · Gen
 
 ### 📜 Certifications
 
-- Google ML Crash Course
-- Infosys AI Primer (Springboard)
-- AWS Cloud Practitioner Essentials
-- Google GenAI & MLOps Skill Badges
-- Oracle Java Fundamentals
-- Coursera Cybersecurity Foundations
+- Google ML Crash Course  
+- Infosys AI Primer (Springboard)  
+- AWS Cloud Practitioner Essentials  
+- Google GenAI & MLOps Skill Badges  
+- Oracle Java Fundamentals  
+- Coursera Cybersecurity Foundations  
+
+---
+
+### 📊 GitHub Stats
+
+![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=njoyc&show_icons=true&theme=graywhite&hide_title=true&hide_border=true)
 
 ---
 
