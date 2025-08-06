@@ -1,18 +1,18 @@
-<h1 align="center">Hey, I'm Joy Christiana Nelapati 👋</h1>
-<p align="center">Final-year CSE student | AI & Web Developer | Tech Explorer</p>
+<h1 align="center">Hi, I'm Joy Christiana Nelapati</h1>
+<p align="center">Final-year Computer Science Student | Focused on AI and Web Development</p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 B.Tech in Computer Science @ SVECW (2022–2026) – CGPA: 8.92  
-- 🧠 Interests: AI · LLMs · Full Stack · Cybersecurity · Productivity Tools  
-- 🧪 Currently building: AI Study Tools, Real-Time Dashboards, ML Web Apps  
-- 🌱 Exploring: Firebase · GenAI APIs · MLOps · Japanese 🇯🇵
+- B.Tech in Computer Science and Engineering @ SVECW (2022–2026) – CGPA: 8.92  
+- Interested in building useful tools with AI, LLMs, and real-time data  
+- Learning by doing. Currently exploring Firebase, GenAI APIs, and MLOps  
+- Trying to be consistent with coding, projects, and personal growth
 
 ---
 
-### 🛠️ Tech Stack
+### Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,flask,nodejs,mysql,mongodb,firebase,git,github,vscode&theme=dark" />
@@ -20,17 +20,17 @@
 
 ---
 
-### 💼 Featured Projects
+### Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📚 [PeakPath](https://github.com/njoyc/PeakPath) | AI-powered study planner with LLM integration and journaling | Flask, JS, SQLite, LLaMA3 |
-| 🍄 [Mushroom Toxicity](https://github.com/njoyc/mushroom_toxicity_prediction) | Predicts whether mushrooms are edible or poisonous | Python, Flask, Sklearn |
-| 💹 [CryptoTrack](https://github.com/njoyc/CryptoTrack) | Real-time crypto price tracker with alerts and charts | React.js, Chart.js, CoinGecko API |
+| Name | Description | Stack |
+|------|-------------|-------|
+| [PeakPath](https://github.com/njoyc/PeakPath) | AI-powered study planner with calendar, journaling, and LLM-based suggestions | Flask, SQLite, JavaScript |
+| [Mushroom Toxicity](https://github.com/njoyc/mushroom_toxicity_prediction) | Machine learning app to classify mushrooms as edible or poisonous | Python, Flask, Scikit-learn |
+| [CryptoTrack](https://github.com/njoyc/CryptoTrack) | Real-time crypto price tracker with INR/EUR/USD support and price alerts | React.js, Chart.js, CoinGecko API |
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=njoyc&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
@@ -39,18 +39,18 @@
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - Google ML Crash Course  
 - AWS Cloud Practitioner Essentials  
-- Infosys Springboard: AI Primer  
-- Google Cloud: GenAI & MLOps Skill Badges  
-- Oracle Java Fundamentals – Certificate of Excellence  
-- Coursera: Foundations of Cybersecurity  
+- Infosys Springboard – AI Primer  
+- Google GenAI & MLOps Skill Badges  
+- Oracle Java Fundamentals  
+- Coursera – Cybersecurity Foundations  
 
 ---
 
-### 📬 Contact Me
+### Contact
 
 <p align="center">
   <a href="mailto:joynelpati3@gmail.com"><img src="https://img.shields.io/badge/Gmail-joynelpati3%40gmail.com-red?style=flat&logo=gmail" /></a>
